@@ -155,8 +155,8 @@ class _LinksComponent extends PositionComponent with HasGameRef {
           anchor: Anchor.center,
           position: Vector2(0, 9.2),
           children: [
-            ShareLinkComponent(onTap: onShare),
-            GoogleIOLinkComponent(),
+            // ShareLinkComponent(onTap: onShare),
+            // GoogleIOLinkComponent(),
           ],
         );
 }

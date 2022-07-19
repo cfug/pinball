@@ -156,11 +156,11 @@
   "@ioPinball": {
     "description": "游戏名称 Flutter 弹球游戏"
   },
-  "shareYourScore": "分享你的分数",
+  "shareYourScore": "分数已提交",
   "@shareYourScore": {
     "description": "在分数信息页面的标题"
   },
-  "andChallengeYourFriends": "挑战一下你的朋友们吧！",
+  "andChallengeYourFriends": "挑战一下朋友们吧",
   "@challengeYourFriends": {
     "description": "在分数信息页面的标题"
   },
@@ -172,11 +172,11 @@
   "@gotoIO": {
     "description": "在分数信息页面显示的活动网址的文字。"
   },
-  "learnMore": "了解更多关于如何使用 Flutter 和 Firebase",
+  "learnMore": "关于如何使用 Flutter 和 Firebase 开发游戏，",
   "@learnMore": {
     "description": "在分数信息页面显示的文字"
   },
-  "firebaseOr": "开发游戏或者查看本应用的",
+  "firebaseOr": "请查看本应用的",
   "@firebaseOr": {
     "description": "在分数信息页面显示的文字"
   },
