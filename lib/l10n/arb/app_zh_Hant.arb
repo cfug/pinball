@@ -124,9 +124,9 @@
   "@linkBoxOpenSourceCode": {
     "description": "資源列錶框裡跳轉到 GitHub 倉庫地址的鏈接文字"
   },
-  "linkBoxGoogleIOText": "參與 Google I/O 大會",
+  "linkBoxGoogleIOText": "參與我們的活動",
   "@linkBoxGoogleIOText": {
-    "description": "資源列錶框裡 Google I/O 大會的鏈接文字"
+    "description": "資源列錶框裡參與我們的活動的鏈接文字"
   },
   "linkBoxFlutterGames": "使用 Flutter 開發遊戲",
   "@linkBoxFlutterGames": {
@@ -152,9 +152,9 @@
   "@replay": {
     "description": "在分享頁面顯示再玩一次的文本"
   },
-  "ioPinball": "I/O 彈球遊戲",
+  "ioPinball": "Flutter 彈球遊戲",
   "@ioPinball": {
-    "description": "遊戲名稱 I/O 彈球遊戲"
+    "description": "遊戲名稱 Flutter 彈球遊戲"
   },
   "shareYourScore": "分享你的分數",
   "@shareYourScore": {
@@ -168,9 +168,9 @@
   "@share": {
     "description": "在分數信息頁面顯示的分享分數的文本。"
   },
-  "gotoIO": "來 I/O 大會",
+  "gotoIO": "來參與我們的活動",
   "@gotoIO": {
-    "description": "在分數信息頁面顯示的 I/O 網址的文字。"
+    "description": "在分數信息頁面顯示的活動網址的文字。"
   },
   "learnMore": "了解更多關於如何使用 Flutter 和 Firebase",
   "@learnMore": {
@@ -200,7 +200,7 @@
   "@leaderboardErrorMessage": {
     "description": "在排行榜無法顯示時候顯示的文字"
   },
-  "letEveryone": "為了讓更多的人了解 I/O 彈球遊戲，",
+  "letEveryone": "為了讓更多的人了解 Flutter 彈球遊戲，",
   "@letEveryone": {
     "description": "在分享頁面顯示的文字"
   },
@@ -212,7 +212,7 @@
   "@socialMediaAccount": {
     "description": "在分享頁面顯示的文字"
   },
-  "iGotScoreAtPinball": "我在 #IOPinball 遊戲裡得了 {score} 分，你能超越我的分數嗎？ \nI/O 大會見！ #GoogleIO",
+  "iGotScoreAtPinball": "我在 #FlutterPinball 遊戲裡得了 {score} 分，你能超越我的分數嗎？",
   "@iGotScoreAtPinball": {
     "description": "分享到社交網絡的一段文字",
     "placeholders": {
