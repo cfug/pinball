@@ -84,23 +84,23 @@
   "@score": {
     "description": "顯示在玩家分數上方的標籤文字"
   },
-  "enterInitials": "鍵入一個名字首字母，使用鍵盤或",
+  "enterInitials": "使用方向鍵選擇名字首字母",
   "@enterInitials": {
     "description": "名字首字母輸入頁面的說明文本"
   },
-  "arrows": "方向箭頭",
+  "arrows": "",
   "@arrows": {
     "description": "名字首字母輸入頁面顯示的方向箭頭文本"
   },
-  "andPress": "然後點按",
+  "andPress": "然後點按回車鍵或者提交按鈕",
   "@andPress": {
     "description": "名字首字母輸入頁面顯示的然後點按文本"
   },
-  "enterReturn": "回車或提交按鈕",
+  "enterReturn": "",
   "@enterReturn": {
     "description": "名字首字母輸入頁面顯示的回車或提交按鈕文本"
   },
-  "toSubmit": "將成績發送至排行榜",
+  "toSubmit": "發送分數至排行榜",
   "@toSubmit": {
     "description": "名字首字母輸入頁面的結束文字"
   },
@@ -172,15 +172,15 @@
   "@gotoIO": {
     "description": "在分數信息頁面顯示的活動網址的文字。"
   },
-  "learnMore": "關於如何使用 Flutter 和 Firebase 開發遊戲，",
+  "learnMore": "了解更多使用 Flutter 開發遊戲的信息，",
   "@learnMore": {
     "description": "在分數信息頁面顯示的文字"
   },
-  "firebaseOr": "請查看本應用的",
+  "firebaseOr": "請點擊鏈接查看",
   "@firebaseOr": {
     "description": "在分數信息頁面顯示的文字"
   },
-  "openSourceCode": "開源代碼",
+  "openSourceCode": "本項目是如何構建的。",
   "@openSourceCode": {
     "description": "在分數信息頁面顯示的文字"
   },

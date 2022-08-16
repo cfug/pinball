@@ -202,13 +202,13 @@ class _MadeWithFlutterAndFirebase extends StatelessWidget {
 }
 
 abstract class _MoreInformationUrl {
-  static const flutterWebsite = 'https://flutter.dev';
-  static const firebaseWebsite = 'https://firebase.google.com';
-  static const openSourceCode = 'https://github.com/flutter/pinball';
-  static const googleIOEvent = 'https://events.google.com/io/';
-  static const flutterGamesWebsite = 'http://flutter.dev/games';
+  static const flutterWebsite = 'https://flutter.cn';
+  static const firebaseWebsite = 'https://firebase.google.cn';
+  static const openSourceCode = 'https://flutter.cn/posts/i-o-pinball';
+  static const googleIOEvent = 'https://developersummit.googlecnapps.cn/';
+  static const flutterGamesWebsite = 'http://flutter.cn/games';
   static const howItsMadeArticle =
-      'https://medium.com/flutter/i-o-pinball-powered-by-flutter-and-firebase-d22423f3f5d';
-  static const termsOfService = 'https://policies.google.com/terms';
-  static const privacyPolicy = 'https://policies.google.com/privacy';
+      'https://flutter.cn/posts/i-o-pinball';
+  static const termsOfService = 'https://policies.google.cn/terms';
+  static const privacyPolicy = 'https://policies.google.cn/privacy';
 }

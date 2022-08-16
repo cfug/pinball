@@ -90,7 +90,7 @@ void main() {
         await tester.pumpAndSettle();
         verify(
           () => urlLauncher.launch(
-            'https://flutter.dev',
+            'https://flutter.cn',
             useSafariVC: any(named: 'useSafariVC'),
             useWebView: any(named: 'useWebView'),
             enableJavaScript: any(named: 'enableJavaScript'),
@@ -125,7 +125,7 @@ void main() {
         await tester.pumpAndSettle();
         verify(
           () => urlLauncher.launch(
-            'https://firebase.google.com',
+            'https://firebase.google.cn',
             useSafariVC: any(named: 'useSafariVC'),
             useWebView: any(named: 'useWebView'),
             enableJavaScript: any(named: 'enableJavaScript'),
@@ -138,13 +138,13 @@ void main() {
     );
 
     <String, String>{
-      'Open Source Code': 'https://github.com/flutter/pinball',
-      'Google I/O': 'https://events.google.com/io/',
-      'Flutter Games': 'http://flutter.dev/games',
+      'Open Source Code': 'https://flutter.cn/posts/i-o-pinball',
+      'Google I/O': 'https://developersummit.googlecnapps.cn/',
+      'Flutter Games': 'http://flutter.cn/games',
       'How it’s made':
-          'https://medium.com/flutter/i-o-pinball-powered-by-flutter-and-firebase-d22423f3f5d',
-      'Terms of Service': 'https://policies.google.com/terms',
-      'Privacy Policy': 'https://policies.google.com/privacy',
+          'https://flutter.cn/posts/i-o-pinball',
+      'Terms of Service': 'https://policies.google.cn/terms',
+      'Privacy Policy': 'https://policies.google.cn/privacy',
     }.forEach((text, link) {
       testWidgets(
         'tapping on "$text" opens the link - $link',

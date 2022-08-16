@@ -50,7 +50,7 @@ class App extends StatelessWidget {
           BlocProvider(create: (_) => GameBloc()),
         ],
         child: MaterialApp(
-          title: 'I/O Pinball',
+          title: 'Flutter Pinball',
           theme: PinballTheme.standard,
           localizationsDelegates: const [
             AppLocalizations.delegate,
