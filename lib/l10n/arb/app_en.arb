@@ -124,9 +124,9 @@
   "@linkBoxOpenSourceCode": {
     "description": "Text shown on the link box which redirects to github project"
   },
-  "linkBoxGoogleIOText": "Google I/O",
+  "linkBoxGoogleIOText": "Join our developer conference",
   "@linkBoxGoogleIOText": {
-    "description": "Text shown on the link box which mentions Google I/O"
+    "description": "Text shown on the link box which mentions the event"
   },
   "linkBoxFlutterGames": "Flutter Games",
   "@linkBoxFlutterGames": {
@@ -152,9 +152,9 @@
   "@replay": {
     "description": "Text displayed on the share page for replay button"
   },
-  "ioPinball": "I/O Pinball",
+  "ioPinball": "Flutter Pinball",
   "@ioPinball": {
-    "description": "I/O Pinball - Name of the game"
+    "description": "Flutter Pinball - Name of the game"
   },
   "shareYourScore": "Share your score",
   "@shareYourScore": {
@@ -199,9 +199,8 @@
   "leaderboardErrorMessage": "No connection. Leaderboard and sharing functionality is unavailable.",
   "@leaderboardErrorMessage": {
     "description": "Text shown when the leaderboard had an error while loading"
-  }
-  ,
-  "letEveryone": "Let everyone know about I/O Pinball",
+  },
+  "letEveryone": "Let everyone know about Flutter Pinball",
   "@letEveryone": {
     "description": "Text displayed on share screen for description"
   },
@@ -213,7 +212,7 @@
   "@socialMediaAccount": {
     "description": "Text displayed on share screen for description"
   },
-  "iGotScoreAtPinball": "I got {score} points in #IOPinball, can you beat my score? \nSee you at #GoogleIO!",
+  "iGotScoreAtPinball": "I got {score} points in #FlutterPinball, can you beat my score?",
   "@iGotScoreAtPinball": {
     "description": "Text to share score on Social Network",
     "placeholders": {

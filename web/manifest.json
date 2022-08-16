@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Google I/O 2022 Pinball game built with Flutter and Firebase",
+    "description": "由 Flutter 构建的 Web 端 Google 主题的弹球游戏，等你来挑战高分！",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
